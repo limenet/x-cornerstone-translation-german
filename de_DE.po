@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cornerstone\n"
 "POT-Creation-Date: 2015-05-30 17:35+0100\n"
-"PO-Revision-Date: 2015-05-30 19:37+0100\n"
+"PO-Revision-Date: 2015-05-30 19:56+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -438,11 +438,13 @@ msgstr ""
 
 #: includes/builder/strings-builder.php:27
 msgid "Just getting started?"
-msgstr ""
+msgstr "Noch am Anfang?"
 
 #: includes/builder/strings-builder.php:28
 msgid "Add a section then click on it to manage column layouts or drag it to reorder."
 msgstr ""
+"Fügen Sie einen Bereich hinzu und klicken Sie dann darauf, um Spalten-Layouts zu verwalten "
+"oder ziehen Sie diese um sie neu anzuordnen."
 
 #: includes/builder/strings-builder.php:31 includes/modules/elements/column.php:13
 msgid "Want to add content?"
@@ -477,7 +479,7 @@ msgstr "Benutzerdefiniert"
 
 #: includes/builder/strings-builder.php:37
 msgid "Click and drag to reorder your columns."
-msgstr ""
+msgstr "Klicken und ziehen Sie, um Ihre Spalten neu anzuordnen."
 
 #: includes/builder/strings-builder.php:38
 msgid "This will remove all elements from this column. Are you sure you want to continue?"
@@ -1056,11 +1058,11 @@ msgstr "Ohne Titel"
 
 #: includes/modules/elements/accordion-item.php:8 includes/tools/map.php:1225
 msgid "Accordion Item"
-msgstr ""
+msgstr "Akkordeon Element"
 
 #: includes/modules/elements/accordion-item.php:10
 msgid "Accordion Item description."
-msgstr ""
+msgstr "Akkordeon Element Beschreibung."
 
 #: includes/modules/elements/accordion-item.php:31
 msgid "Include your desired content for your Accordion Item here."
@@ -1076,15 +1078,15 @@ msgstr ""
 
 #: includes/modules/elements/accordion.php:8 includes/tools/map.php:1203
 msgid "Accordion"
-msgstr ""
+msgstr "Akkordeon"
 
 #: includes/modules/elements/accordion.php:10
 msgid "Accordion description."
-msgstr ""
+msgstr "Akkordeon Beschreibung."
 
 #: includes/modules/elements/accordion.php:22
 msgid "Accordion Items"
-msgstr ""
+msgstr "Akkordeon Elemente"
 
 #: includes/modules/elements/accordion.php:23
 msgid "Add a new item to your accordion."
@@ -1092,7 +1094,7 @@ msgstr ""
 
 #: includes/modules/elements/accordion.php:25
 msgid "Accordion Item 1"
-msgstr ""
+msgstr "Akkordeon Element 1"
 
 #: includes/modules/elements/accordion.php:25 includes/modules/elements/accordion.php:26
 msgid "Add some content to your accordion item here."
@@ -1100,12 +1102,12 @@ msgstr ""
 
 #: includes/modules/elements/accordion.php:26
 msgid "Accordion Item 2"
-msgstr ""
+msgstr "Akkordeon Element 2"
 
 #: includes/modules/elements/accordion.php:29
 #, php-format
 msgid "Accordion Item %s"
-msgstr ""
+msgstr "Akkordeon Element %s"
 
 #: includes/modules/elements/accordion.php:37
 msgid "Link Items (Requires ID)"
@@ -1118,11 +1120,11 @@ msgstr ""
 
 #: includes/modules/elements/alert.php:8 includes/tools/map.php:345
 msgid "Alert"
-msgstr ""
+msgstr "Alarm"
 
 #: includes/modules/elements/alert.php:10
 msgid "Alert description."
-msgstr ""
+msgstr "Alarm Beschreibung."
 
 #: includes/modules/elements/alert.php:20
 msgid "Heading &amp; Content"
@@ -1134,11 +1136,11 @@ msgstr ""
 
 #: includes/modules/elements/alert.php:22
 msgid "Alert Title"
-msgstr ""
+msgstr "Alarm Titel"
 
 #: includes/modules/elements/alert.php:30
 msgid "Click to inspect, then edit as needed."
-msgstr ""
+msgstr "Klicken um zu inspizieren, dann bearbeiten wie gewünscht"
 
 #: includes/modules/elements/alert.php:36 includes/tools/map.php:365
 #: includes/tools/map.php:798 includes/tools/map.php:1036
@@ -1185,11 +1187,11 @@ msgstr ""
 
 #: includes/modules/elements/author.php:8 includes/tools/map.php:2076
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: includes/modules/elements/author.php:10
 msgid "Author description."
-msgstr ""
+msgstr "Autor Beschreibung."
 
 #: includes/modules/elements/author.php:20 includes/modules/elements/social-sharing.php:20
 #: includes/modules/settings/general.php:33 includes/tools/map.php:695
@@ -1210,7 +1212,7 @@ msgstr ""
 
 #: includes/modules/elements/author.php:28 includes/tools/map.php:2091
 msgid "Author ID"
-msgstr ""
+msgstr "Autor ID"
 
 #: includes/modules/elements/author.php:29 includes/tools/map.php:2092
 msgid ""
@@ -1320,7 +1322,7 @@ msgstr "Herr Wordpress"
 #: includes/tools/map.php:2117 includes/tools/map.php:2294 includes/tools/map.php:2382
 #: includes/tools/map.php:2464
 msgid "Alignment"
-msgstr ""
+msgstr "Ausrichtung"
 
 #: includes/modules/elements/blockquote.php:38 includes/tools/map.php:279
 msgid "Select the alignment of the blockquote."
@@ -1775,7 +1777,7 @@ msgstr ""
 #: includes/modules/elements/column.php:25 includes/modules/elements/creative-cta.php:150
 #: includes/modules/elements/row.php:37 includes/modules/elements/section.php:38
 msgid "Background Color"
-msgstr ""
+msgstr "Hintergrundfarbe"
 
 #: includes/modules/elements/column.php:26
 msgid "Select the background color of your Column."
@@ -2117,7 +2119,7 @@ msgstr ""
 
 #: includes/modules/elements/embedded-video.php:8
 msgid "Embedded Video"
-msgstr ""
+msgstr "Eingebettetes Video"
 
 #: includes/modules/elements/embedded-video.php:10
 msgid "Embedded Video description."
@@ -2189,11 +2191,11 @@ msgstr ""
 
 #: includes/modules/elements/gap.php:8 includes/tools/map.php:211
 msgid "Gap"
-msgstr ""
+msgstr "Abstand"
 
 #: includes/modules/elements/gap.php:10
 msgid "Gap description."
-msgstr ""
+msgstr "Abstand Beschreibung."
 
 #: includes/modules/elements/gap.php:22 includes/tools/map.php:219
 msgid ""
@@ -2517,11 +2519,11 @@ msgstr ""
 
 #: includes/modules/elements/pricing-table-column.php:8 includes/tools/map.php:1784
 msgid "Pricing Table Column"
-msgstr ""
+msgstr "Preistabelle Spalte"
 
 #: includes/modules/elements/pricing-table-column.php:10
 msgid "Pricing Table Column description."
-msgstr ""
+msgstr "Preistabelle Spalte Beschreibung."
 
 #: includes/modules/elements/pricing-table-column.php:31
 msgid "Specify your pricing column content."
@@ -2585,15 +2587,15 @@ msgstr ""
 
 #: includes/modules/elements/pricing-table.php:8 includes/tools/map.php:1748
 msgid "Pricing Table"
-msgstr ""
+msgstr "Preistabelle"
 
 #: includes/modules/elements/pricing-table.php:10
 msgid "Pricing Table description."
-msgstr ""
+msgstr "Preistabelle Beschreibung."
 
 #: includes/modules/elements/pricing-table.php:22
 msgid "Pricing Table Columns"
-msgstr ""
+msgstr "Preistabelle Spalten"
 
 #: includes/modules/elements/pricing-table.php:23
 msgid "Add your pricing table columns here."
@@ -2620,7 +2622,7 @@ msgstr ""
 
 #: includes/modules/elements/pricing-table.php:27
 msgid "Pro"
-msgstr ""
+msgstr "Pro"
 
 #: includes/modules/elements/pricing-table.php:27
 msgid ""
@@ -2640,7 +2642,7 @@ msgstr "Spalte %s"
 
 #: includes/modules/elements/promo.php:8 includes/tools/map.php:1942
 msgid "Promo"
-msgstr ""
+msgstr "Promo"
 
 #: includes/modules/elements/promo.php:10
 msgid "Promo description."
@@ -2662,11 +2664,11 @@ msgstr ""
 
 #: includes/modules/elements/prompt.php:8 includes/tools/map.php:2110
 msgid "Prompt"
-msgstr ""
+msgstr "Dialog"
 
 #: includes/modules/elements/prompt.php:10
 msgid "Prompt description."
-msgstr ""
+msgstr "Dialog Beschreibung."
 
 #: includes/modules/elements/prompt.php:20
 msgid "Title &amp; Content"
@@ -2678,7 +2680,7 @@ msgstr ""
 
 #: includes/modules/elements/prompt.php:22
 msgid "Prompt Title"
-msgstr ""
+msgstr "Dialog Titel"
 
 #: includes/modules/elements/prompt.php:30
 msgid "This is where the main content for your Prompt can go."
@@ -2698,7 +2700,7 @@ msgstr ""
 
 #: includes/modules/elements/protect.php:8 includes/tools/map.php:1573
 msgid "Protect"
-msgstr ""
+msgstr "Schützen"
 
 #: includes/modules/elements/protect.php:10
 msgid "Protect description."
@@ -2861,7 +2863,7 @@ msgstr ""
 
 #: includes/modules/elements/row.php:45 includes/modules/elements/section.php:132
 msgid "Margin"
-msgstr ""
+msgstr "Aussenabstand"
 
 #: includes/modules/elements/row.php:46
 msgid ""
@@ -2874,11 +2876,11 @@ msgstr ""
 
 #: includes/modules/elements/search.php:8 includes/tools/map.php:2573
 msgid "Search"
-msgstr ""
+msgstr "Suche"
 
 #: includes/modules/elements/search.php:10
 msgid "Search description."
-msgstr ""
+msgstr "Suche Beschreibung."
 
 #: includes/modules/elements/section.php:8
 msgid "Section"
@@ -3020,7 +3022,7 @@ msgstr ""
 #: includes/modules/elements/self-hosted-audio.php:51
 #: includes/modules/elements/self-hosted-video.php:92
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: includes/modules/elements/self-hosted-audio.php:52
 #: includes/modules/elements/self-hosted-video.php:93
@@ -3586,7 +3588,7 @@ msgstr ""
 
 #: includes/modules/settings/general.php:49
 msgid "Publish"
-msgstr ""
+msgstr "Veröffentlicht"
 
 #: includes/modules/settings/general.php:51
 msgid "Privately Published"
@@ -3598,7 +3600,7 @@ msgstr ""
 
 #: includes/modules/settings/general.php:55
 msgid "Pending Review"
-msgstr ""
+msgstr "Ausstehender Review"
 
 #: includes/modules/settings/general.php:57 includes/modules/settings/general.php:59
 msgid "Draft"
@@ -3610,7 +3612,7 @@ msgstr "Status"
 
 #: includes/modules/settings/general.php:87
 msgid "Allow Comments"
-msgstr ""
+msgstr "Kommentare erlauben"
 
 #: includes/modules/settings/general.php:88
 msgid ""
@@ -3632,7 +3634,7 @@ msgstr "Standard Vorlage"
 
 #: includes/modules/settings/general.php:196
 msgid "Page Template"
-msgstr ""
+msgstr "Seitenvorlage"
 
 #: includes/modules/settings/x-settings.php:8
 msgid "X Settings"
@@ -3641,7 +3643,7 @@ msgstr "X Einstellungen"
 #: includes/modules/settings/x-settings.php:38 includes/modules/settings/x-settings.php:116
 #: includes/modules/settings/x-settings.php:216
 msgid "Body CSS Class(es)"
-msgstr ""
+msgstr "Body CSS Klasse(n)"
 
 #: includes/modules/settings/x-settings.php:39 includes/modules/settings/x-settings.php:117
 #: includes/modules/settings/x-settings.php:217
@@ -3663,7 +3665,7 @@ msgstr ""
 #: includes/modules/settings/x-settings.php:60 includes/modules/settings/x-settings.php:127
 #: includes/modules/settings/x-settings.php:227
 msgid "Alternate Index Title"
-msgstr ""
+msgstr "Alternativer Titel für Indizes"
 
 #: includes/modules/settings/x-settings.php:61 includes/modules/settings/x-settings.php:128
 #: includes/modules/settings/x-settings.php:228
@@ -3711,7 +3713,7 @@ msgstr ""
 
 #: includes/modules/settings/x-settings.php:138
 msgid "Disable Page Title"
-msgstr ""
+msgstr "Seitentitel Deaktivieren"
 
 #: includes/modules/settings/x-settings.php:139
 msgid ""
@@ -3781,7 +3783,7 @@ msgstr ""
 
 #: includes/modules/settings/x-settings.php:343
 msgid "Embedded Video Code"
-msgstr ""
+msgstr "Embedded Video-Code"
 
 #: includes/modules/settings/x-settings.php:344
 msgid ""
@@ -3914,7 +3916,7 @@ msgstr ""
 
 #: includes/tools/map.php:378
 msgid "Close"
-msgstr ""
+msgstr "Schliessen"
 
 #: includes/tools/map.php:379
 msgid "Select to display the close button."
