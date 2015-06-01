@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cornerstone\n"
 "POT-Creation-Date: 2015-05-30 17:35+0100\n"
-"PO-Revision-Date: 2015-06-01 10:33+0100\n"
+"PO-Revision-Date: 2015-06-01 14:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -431,10 +431,13 @@ msgstr ""
 #: includes/builder/strings-builder.php:25
 msgid "Sections need at least one row. Would you like to clear this row&apos;s contents?"
 msgstr ""
+"Bereiche benötigen mindestens eine Zeile. Wollen Sie die Inhalte dieser Zeile löschen?"
 
 #: includes/builder/strings-builder.php:26
 msgid "Click a row to manage columns. Drag to reorder."
 msgstr ""
+"Klicken Sie auf eine Zeile, um Spalten zu verwalten. Ziehen Sie, um die Reihenfolge zu "
+"verändern."
 
 #: includes/builder/strings-builder.php:27
 msgid "Just getting started?"
@@ -456,6 +459,8 @@ msgid ""
 "Choose a layout, click the <strong class=\"glue\">%%icon-nav-elements-solid%% Elements</"
 "strong> icon above, then drag elements into a column."
 msgstr ""
+"Wählen Sie ein Layout, klicken Sie auf das <strong class=\"glue\">%%icon-nav-elements-solid"
+"%% Elemente</strong> Symbol oben, und ziehen Sie dann Elemente in eine Spalte."
 
 #: includes/builder/strings-builder.php:33
 #, php-format
@@ -467,6 +472,9 @@ msgid ""
 "Choose from one of our predefined column layouts, or specify your own using the input "
 "below. Columns cannot be any smaller than 1/6 and must add up to a whole."
 msgstr ""
+"Wählen Sie aus einem unserer vordefinierten Spalten-Layouts, oder geben Sie Ihr Eigenes in "
+"untenstehendem Eingabefeld ein. Spalte können nicht kleiner als 1/6 sein und müssen zu "
+"einem Ganzen (1/1) addieren."
 
 #: includes/builder/strings-builder.php:35
 #, php-format
@@ -484,6 +492,7 @@ msgstr "Klicken und ziehen Sie, um Ihre Spalten neu anzuordnen."
 #: includes/builder/strings-builder.php:38
 msgid "This will remove all elements from this column. Are you sure you want to continue?"
 msgstr ""
+"Dies entfernt alle Elemente aus dieser Spalte. Sind Sie sicher, dass Sie fortfahren wollen?"
 
 #: includes/builder/strings-builder.php:39
 #, php-format
@@ -499,6 +508,8 @@ msgid ""
 "<strong>Blocks</strong> are appended to your content, whereas <strong>Pages</strong> will "
 "replace your content."
 msgstr ""
+"<strong>Blöcke</strong> warden an Ihren Inhalt angehängt, während <strong>Seiten</strong> "
+"Ihren Inhalt ersetzen warden."
 
 #: includes/builder/strings-builder.php:45
 msgid "Upload"
@@ -506,7 +517,7 @@ msgstr "Hochladen"
 
 #: includes/builder/strings-builder.php:46
 msgid "My Custom Template"
-msgstr ""
+msgstr "Meine benutzerdefinierte Vorlage"
 
 #: includes/builder/strings-builder.php:47
 msgid "Add to layout"
@@ -518,15 +529,15 @@ msgstr "Herunterladen"
 
 #: includes/builder/strings-builder.php:49
 msgid "To Library"
-msgstr ""
+msgstr "Zur Bibliothek"
 
 #: includes/builder/strings-builder.php:50
 msgid "Template saved."
-msgstr ""
+msgstr "Vorlage gespeichert."
 
 #: includes/builder/strings-builder.php:51
 msgid "How would you like this page stored in your library?"
-msgstr ""
+msgstr "Wie wollen Sie diese Vorlage in Ihrer Bibliothek gespeichert haben?"
 
 #: includes/builder/strings-builder.php:52 includes/builder/strings-builder.php:55
 #: includes/tools/map.php:2347
@@ -543,6 +554,8 @@ msgid ""
 "How would you like this added to your page? Remember, using a page will ERASE your current "
 "page contents."
 msgstr ""
+"Wie wollen Sie das zu Ihrer Seite hinzugefügt haben wollen? Erinnerung: das Verwenden einer "
+"Seite wird Ihre aktuellen Seiteninhalte LÖSCHEN."
 
 #: includes/builder/strings-builder.php:57
 msgid "Insert"
@@ -569,18 +582,20 @@ msgid ""
 "Using a page will <span style=\"color: #e74c3c;\">erase</span> your current page contents. "
 "Are you sure you wish to proceed?"
 msgstr ""
+"Das Verwenden einer Seite wird die aktuelle Seiteninhalte <span style=\"color: #e74c3c;"
+"\">löschen</span>. Sind Sie sicher, dass Sie fortfahren möchten?"
 
 #: includes/builder/strings-builder.php:65
 msgid "Unable to read file"
-msgstr ""
+msgstr "Datei kann nicht gelesen werden"
 
 #: includes/builder/strings-builder.php:66
 msgid "Sorry! Your file is not properly formatted."
-msgstr ""
+msgstr "Entschuldigung! Die Datei ist nicht richtig formatiert."
 
 #: includes/builder/strings-builder.php:67
 msgid "Unable to save template."
-msgstr ""
+msgstr "Konnte Vorlage nicht speichern."
 
 #: includes/builder/strings-builder.php:68
 msgid "Remove Templates"
@@ -604,14 +619,16 @@ msgstr "(Seite) %s"
 #: includes/builder/strings-builder.php:72
 msgid "Are you sure you wish to delete this template? This can not be undone."
 msgstr ""
+"Sind Sie sicher, dass Sie diese Vorlage löschen möchten? Das kann nicht rückgängig gemacht "
+"werden."
 
 #: includes/builder/strings-builder.php:73
 msgid "Template removed from library."
-msgstr ""
+msgstr "Vorlage aus der Bibliothek entfernt."
 
 #: includes/builder/strings-builder.php:74
 msgid "Unable to delete stored template."
-msgstr ""
+msgstr "Konnte gespeicherte Vorlage nicht löschen."
 
 #: includes/builder/strings-builder.php:78
 msgid "Elements"
@@ -639,7 +656,7 @@ msgstr "Keine Elemente ausgewählt!"
 
 #: includes/builder/strings-builder.php:86
 msgid "Inspect an element by clicking on it in the preview pane."
-msgstr ""
+msgstr "Inspizieren Sie ein Element in dem Sie im Vorschaufenster darauf klicken."
 
 #: includes/builder/strings-builder.php:87 includes/builder/strings-builder.php:100
 msgid "Duplicate"
@@ -647,11 +664,11 @@ msgstr "Duplizieren"
 
 #: includes/builder/strings-builder.php:89
 msgid "Are you sure you wish to delete this element?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie dieses Element löschen möchten?"
 
 #: includes/builder/strings-builder.php:90
 msgid "Erase"
-msgstr ""
+msgstr "Löschen"
 
 #: includes/builder/strings-builder.php:91
 msgid "Manage Layout"
@@ -684,7 +701,7 @@ msgstr "Hinzufügen"
 
 #: includes/builder/strings-builder.php:103
 msgid "Are you sure you wish to remove this item?"
-msgstr ""
+msgstr "Sie sind sicher, dass Sie dieses Element entfernen möchten?"
 
 #: includes/builder/strings-builder.php:104
 msgid "This element has a minimum required amount. You can&apos;t delete any more."
@@ -697,7 +714,7 @@ msgstr ""
 #: includes/builder/strings-builder.php:106
 #, php-format
 msgid "New Item %s"
-msgstr ""
+msgstr "Neues Element %s"
 
 #: includes/builder/strings-builder.php:107
 #, php-format
@@ -714,11 +731,11 @@ msgstr "etwas hinzuzufügen, drücken Sie einfach auf die Schaltfläche unten!"
 
 #: includes/builder/strings-builder.php:113
 msgid "Back to Settings"
-msgstr ""
+msgstr "Zurück zu den Einstellungen"
 
 #: includes/builder/strings-builder.php:114
 msgid "Please wait while the settings are loaded."
-msgstr ""
+msgstr "Bitte warten Sie, während die Einstellungen geladen werden."
 
 #: includes/builder/strings-builder.php:115
 msgid "Custom CSS"
@@ -751,7 +768,7 @@ msgstr "Sie haben keine Änderungen gespeichert!"
 #: includes/builder/strings-builder.php:124
 #, php-format
 msgid "Last saved: %s."
-msgstr ""
+msgstr "Zuletzt gespeichert: %s."
 
 #: includes/builder/strings-builder.php:125
 msgid "View Page"
@@ -817,7 +834,7 @@ msgstr "Zurück"
 
 #: includes/builder/strings-builder.php:149
 msgid "Unable to save page."
-msgstr ""
+msgstr "Konnte Seite nicht speichern."
 
 #: includes/builder/strings-builder.php:151
 msgid "Woohoo!"
@@ -829,11 +846,11 @@ msgstr "You Da Man!"
 
 #: includes/builder/strings-builder.php:153
 msgid "Rock On!"
-msgstr ""
+msgstr "Rock On!"
 
 #: includes/builder/strings-builder.php:154
 msgid "Radical!"
-msgstr ""
+msgstr "Radical!"
 
 #: includes/builder/strings-builder.php:155
 msgid "Tubular!"
@@ -861,11 +878,11 @@ msgstr "Neat-O!"
 
 #: includes/builder/strings-builder.php:161
 msgid "Bodacious!"
-msgstr ""
+msgstr "Bodacious!"
 
 #: includes/builder/strings-builder.php:162
 msgid "Scintillating!"
-msgstr ""
+msgstr "Scintillating!"
 
 #: includes/builder/strings-builder.php:167
 msgid "Hey!"
@@ -873,7 +890,7 @@ msgstr "Hey!"
 
 #: includes/builder/strings-builder.php:168
 msgid "Awesome!"
-msgstr ""
+msgstr "Awesome!"
 
 #: includes/builder/strings-builder.php:169
 msgid "Uh oh!"
@@ -881,19 +898,19 @@ msgstr "Uh oh!"
 
 #: includes/builder/strings-builder.php:171
 msgid "January_February_March_April_May_June_July_August_September_October_November_December"
-msgstr ""
+msgstr "Januar_Februar_März_April_Mai_Juni_Juli_August_September_Oktober_November_Dezember"
 
 #: includes/builder/strings-builder.php:172
 msgid "Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec"
-msgstr ""
+msgstr "Jan_Febr_März_Apr_Mai_Juni_Juli_Aug_Sept_Okt_Nov_Dez"
 
 #: includes/builder/strings-builder.php:173
 msgid "Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday"
-msgstr ""
+msgstr "Sonntag_Montag_Dienstag_Mittwoch_Donnerstag_Freitag_Samstag"
 
 #: includes/builder/strings-builder.php:174
 msgid "Sun_Mon_Tue_Wed_Thu_Fri_Sat"
-msgstr ""
+msgstr "So_Mo_Di_Mi_Do_Fr_Sa"
 
 #: includes/builder/strings-builder.php:175
 msgid "Su_Mo_Tu_We_Th_Fr_Sa"
@@ -1000,7 +1017,7 @@ msgstr "Schaltfläche unten"
 
 #: includes/elements/class-element-base.php:23 includes/elements/class-element-base.php:25
 msgid "Generic Element"
-msgstr ""
+msgstr "Generisches Element"
 
 #: includes/elements/class-element-manager.php:39 includes/tools/map.php:192
 #: includes/tools/map.php:212 includes/tools/map.php:239
@@ -1036,7 +1053,7 @@ msgstr "Inhalt"
 #: includes/elements/class-element-manager.php:43 includes/tools/map.php:1602
 #: includes/tools/map.php:2077 includes/tools/map.php:2194
 msgid "Social"
-msgstr ""
+msgstr "Sozial"
 
 #: includes/elements/class-element-manager.php:44 includes/tools/map.php:613
 #: includes/tools/map.php:1751 includes/tools/map.php:1787 includes/tools/map.php:1859
@@ -1344,12 +1361,12 @@ msgstr "Schaltfläche Beschreibung"
 #: includes/tools/map.php:1950 includes/tools/map.php:2375 includes/tools/map.php:2457
 #: includes/tools/map.php:2675
 msgid "Enter your text."
-msgstr ""
+msgstr "Geben Sie Ihren Text ein."
 
 #: includes/modules/elements/button.php:22 includes/modules/elements/card.php:296
 #: includes/modules/elements/prompt.php:38
 msgid "Click Me!"
-msgstr ""
+msgstr "Klick mich!"
 
 #: includes/modules/elements/button.php:30 includes/tools/map.php:626
 msgid "Shape"
@@ -1357,7 +1374,7 @@ msgstr "Form"
 
 #: includes/modules/elements/button.php:31 includes/tools/map.php:627
 msgid "Select the button shape."
-msgstr ""
+msgstr "﻿Wählen Sie die Schaltflächen-Form."
 
 #: includes/modules/elements/button.php:35
 msgid "&ndash; Global Setting &ndash;"
@@ -1370,7 +1387,7 @@ msgstr "Grösse"
 
 #: includes/modules/elements/button.php:47 includes/tools/map.php:638
 msgid "Select the button size."
-msgstr ""
+msgstr "﻿Wählen Sie die Schaltflächen-Grösse."
 
 #: includes/modules/elements/button.php:55
 msgid "X-Large"
@@ -1463,7 +1480,7 @@ msgstr "Oben"
 #: includes/modules/elements/button.php:140 includes/modules/elements/column.php:63
 #: includes/modules/elements/image.php:91
 msgid "Bottom"
-msgstr ""
+msgstr "Unten"
 
 #: includes/modules/elements/button.php:152 includes/modules/elements/image.php:106
 #: includes/tools/map.php:735 includes/tools/map.php:943
@@ -1485,12 +1502,12 @@ msgstr "Klicken"
 
 #: includes/modules/elements/button.php:159 includes/modules/elements/image.php:113
 msgid "Focus"
-msgstr ""
+msgstr "Fokus"
 
 #: includes/modules/elements/button.php:170 includes/modules/elements/image.php:125
 #: includes/tools/map.php:747 includes/tools/map.php:954
 msgid "Info Content"
-msgstr ""
+msgstr "Info Inhalt"
 
 #: includes/modules/elements/button.php:171 includes/modules/elements/image.php:126
 #: includes/tools/map.php:748 includes/tools/map.php:955
@@ -1499,11 +1516,11 @@ msgstr ""
 
 #: includes/modules/elements/callout.php:8 includes/tools/map.php:1858
 msgid "Callout"
-msgstr ""
+msgstr "Callout"
 
 #: includes/modules/elements/callout.php:10
 msgid "Callout description."
-msgstr ""
+msgstr "Callout Beschreibung."
 
 #: includes/modules/elements/callout.php:20
 msgid "Title &amp; Message"
@@ -1515,7 +1532,7 @@ msgstr ""
 
 #: includes/modules/elements/callout.php:22
 msgid "Callout Title"
-msgstr ""
+msgstr "Callout Titel"
 
 #: includes/modules/elements/callout.php:30
 msgid "The message text for your Callout goes here."
@@ -1527,7 +1544,7 @@ msgstr ""
 
 #: includes/modules/elements/callout.php:38
 msgid "Enter Your Text"
-msgstr ""
+msgstr "Geben Sie Ihren Text ein"
 
 #: includes/modules/elements/callout.php:44 includes/modules/elements/prompt.php:44
 #: includes/tools/map.php:1898 includes/tools/map.php:2149
@@ -1549,7 +1566,7 @@ msgstr "Karte"
 
 #: includes/modules/elements/card.php:10
 msgid "Card description."
-msgstr ""
+msgstr "Karte Beschreibung."
 
 #: includes/modules/elements/card.php:24 includes/modules/elements/creative-cta.php:114
 #: includes/modules/elements/slider.php:37 includes/tools/map.php:1463
@@ -1562,23 +1579,23 @@ msgstr ""
 
 #: includes/modules/elements/card.php:33
 msgid "From Top"
-msgstr ""
+msgstr "Von oben"
 
 #: includes/modules/elements/card.php:34
 msgid "From Right"
-msgstr ""
+msgstr "Von rechts"
 
 #: includes/modules/elements/card.php:35
 msgid "From Bottom"
-msgstr ""
+msgstr "Von unten"
 
 #: includes/modules/elements/card.php:36
 msgid "From Left"
-msgstr ""
+msgstr "Von links"
 
 #: includes/modules/elements/card.php:44
 msgid "Center Vertically"
-msgstr ""
+msgstr "Vertikal zentrieren"
 
 #: includes/modules/elements/card.php:45
 msgid ""
@@ -1953,7 +1970,7 @@ msgstr ""
 
 #: includes/modules/elements/creative-cta.php:36
 msgid "Text Size"
-msgstr ""
+msgstr "Textgrösse"
 
 #: includes/modules/elements/creative-cta.php:37
 msgid "Specify the size of your text."
@@ -1961,7 +1978,7 @@ msgstr ""
 
 #: includes/modules/elements/creative-cta.php:44
 msgid "Graphic"
-msgstr ""
+msgstr "Grafik"
 
 #: includes/modules/elements/creative-cta.php:45
 msgid "Choose between an icon and a custom image for your graphic."
@@ -2205,11 +2222,11 @@ msgstr ""
 
 #: includes/modules/elements/google-map-marker.php:8 includes/tools/map.php:504
 msgid "Google Map Marker"
-msgstr ""
+msgstr "Google Map Marker"
 
 #: includes/modules/elements/google-map-marker.php:10
 msgid "Google Map Marker description."
-msgstr ""
+msgstr "Google Map Marker Beschreibung."
 
 #: includes/modules/elements/google-map-marker.php:29
 #: includes/modules/elements/google-map.php:33 includes/tools/map.php:441
@@ -2286,11 +2303,11 @@ msgstr ""
 
 #: includes/modules/elements/google-map.php:65 includes/tools/map.php:453
 msgid "Draggable"
-msgstr ""
+msgstr "Verschiebbar"
 
 #: includes/modules/elements/google-map.php:66
 msgid "Enable to make your map draggable."
-msgstr ""
+msgstr "Aktivieren, um Ihre Karte verschiebbar zu machen."
 
 #: includes/modules/elements/google-map.php:73 includes/tools/map.php:473
 msgid "Height"
@@ -2373,11 +2390,11 @@ msgstr "Bildbeschreibung."
 
 #: includes/modules/elements/image.php:22 includes/tools/map.php:860
 msgid "Select the image style."
-msgstr ""
+msgstr "Wählen Sie den Bild-Stil."
 
 #: includes/modules/elements/image.php:27 includes/modules/settings/x-settings.php:363
 msgid "Thumbnail"
-msgstr ""
+msgstr "Vorschaubild"
 
 #: includes/modules/elements/image.php:29
 msgid "Circle"
@@ -2389,7 +2406,7 @@ msgstr "Src"
 
 #: includes/modules/elements/image.php:38 includes/tools/map.php:883
 msgid "Enter your image."
-msgstr ""
+msgstr "Geben Sie Ihr Bild ein."
 
 #: includes/modules/elements/image.php:45 includes/tools/map.php:888
 #: includes/tools/map.php:1964
@@ -2419,7 +2436,7 @@ msgstr ""
 #: includes/modules/elements/lightbox.php:19 includes/modules/elements/responsive-text.php:29
 #: includes/tools/map.php:2534
 msgid "Selector"
-msgstr ""
+msgstr "Selektor"
 
 #: includes/modules/elements/lightbox.php:20
 msgid ""
@@ -2430,7 +2447,7 @@ msgstr ""
 
 #: includes/modules/elements/lightbox.php:27
 msgid "Deeplink"
-msgstr ""
+msgstr "Deeplink"
 
 #: includes/modules/elements/lightbox.php:28
 msgid "Select to activate deeplinking (creates unique link for each image)."
@@ -2478,7 +2495,7 @@ msgstr ""
 
 #: includes/modules/elements/lightbox.php:75
 msgid "Thumbnails"
-msgstr ""
+msgstr "Vorschaubilder"
 
 #: includes/modules/elements/lightbox.php:76
 msgid "Select to activate thumbnail navigation."
@@ -2507,7 +2524,7 @@ msgstr "Linie"
 
 #: includes/modules/elements/line.php:10
 msgid "Line description."
-msgstr ""
+msgstr "Linie Beschreibung."
 
 #: includes/modules/elements/map-embed.php:8
 msgid "Map Embed"
@@ -2550,7 +2567,7 @@ msgstr ""
 
 #: includes/modules/elements/pricing-table-column.php:38
 msgid "Featured Column"
-msgstr ""
+msgstr "Hervorgehobene Spalte"
 
 #: includes/modules/elements/pricing-table-column.php:39
 msgid "Enable to specify this column as your featured item."
@@ -2558,7 +2575,7 @@ msgstr ""
 
 #: includes/modules/elements/pricing-table-column.php:46
 msgid "Featured Subheading"
-msgstr ""
+msgstr "Hervorgehobene Unterüberschrift"
 
 #: includes/modules/elements/pricing-table-column.php:47
 msgid "Enter text for your featured column subheading here."
@@ -2566,11 +2583,11 @@ msgstr ""
 
 #: includes/modules/elements/pricing-table-column.php:59
 msgid "Currency"
-msgstr ""
+msgstr "Währung"
 
 #: includes/modules/elements/pricing-table-column.php:60
 msgid "Enter your desired currency symbol here."
-msgstr ""
+msgstr "Geben Sie hier Ihr gewünschtes Währung-Symbol ein."
 
 #: includes/modules/elements/pricing-table-column.php:67 includes/tools/map.php:1830
 msgid "Price"
@@ -2578,11 +2595,11 @@ msgstr "Preis"
 
 #: includes/modules/elements/pricing-table-column.php:68
 msgid "Enter the price for this column."
-msgstr ""
+msgstr "Geben Sie den Preis für diese Spalte ein"
 
 #: includes/modules/elements/pricing-table-column.php:75 includes/tools/map.php:1837
 msgid "Interval"
-msgstr ""
+msgstr "Intervall"
 
 #: includes/modules/elements/pricing-table-column.php:76
 msgid "Enter the duration for this payment (e.g. \"Weekly,\" \"Per Year,\" et cetera)."
@@ -2606,11 +2623,11 @@ msgstr "Preistabelle Spalten"
 
 #: includes/modules/elements/pricing-table.php:23
 msgid "Add your pricing table columns here."
-msgstr ""
+msgstr "Fügen Sie hier Ihre Preistabelle-Spalten hinzu."
 
 #: includes/modules/elements/pricing-table.php:25
 msgid "Basic"
-msgstr ""
+msgstr "Basic"
 
 #: includes/modules/elements/pricing-table.php:26
 msgid "Standard"
@@ -2667,15 +2684,15 @@ msgstr "Promo"
 
 #: includes/modules/elements/promo.php:10
 msgid "Promo description."
-msgstr ""
+msgstr "Promo Beschreibung."
 
 #: includes/modules/elements/promo.php:22
 msgid "Enter your Promo content."
-msgstr ""
+msgstr "Geben Sie Ihren Promo-Inhalt ein."
 
 #: includes/modules/elements/promo.php:29
 msgid "Promo Image &amp; Alt Text"
-msgstr ""
+msgstr "Promo Bild &amp; Alt Text"
 
 #: includes/modules/elements/promo.php:30
 msgid ""
@@ -2858,7 +2875,7 @@ msgstr "Zeile"
 
 #: includes/modules/elements/row.php:10
 msgid "Row description."
-msgstr ""
+msgstr "Zeile Beschreibung."
 
 #: includes/modules/elements/row.php:21
 msgid "Column Container"
@@ -2997,11 +3014,11 @@ msgstr ""
 
 #: includes/modules/elements/self-hosted-audio.php:8
 msgid "Self Hosted Audio"
-msgstr ""
+msgstr "Selbst-gehosteter Audio"
 
 #: includes/modules/elements/self-hosted-audio.php:10
 msgid "Self Hosted Audio description."
-msgstr ""
+msgstr "Selbst-gehosteter Audio Beschreibung."
 
 #: includes/modules/elements/self-hosted-audio.php:21 includes/tools/map.php:1693
 msgid "MP3"
@@ -3009,7 +3026,7 @@ msgstr "MP3"
 
 #: includes/modules/elements/self-hosted-audio.php:22
 msgid "Include a .mp3 version of your audio."
-msgstr ""
+msgstr "Fügen Sie eine .mp3 Ihres Audio hinzu."
 
 #: includes/modules/elements/self-hosted-audio.php:29 includes/tools/map.php:1700
 msgid "OGA"
@@ -3018,6 +3035,7 @@ msgstr "OGA"
 #: includes/modules/elements/self-hosted-audio.php:30
 msgid "Include a .oga version of your audio for additional native browser support."
 msgstr ""
+"Fügen Sie eine .oga Version Ihres Audios für erweiterte native Browser-Unterstützung hinzu."
 
 #: includes/modules/elements/self-hosted-audio.php:37
 #: includes/modules/elements/self-hosted-video.php:101
@@ -3026,12 +3044,12 @@ msgstr "Erweiterte Bedienelemente"
 
 #: includes/modules/elements/self-hosted-audio.php:38
 msgid "Enable audio player's advanced controls."
-msgstr ""
+msgstr "Aktivieren Sie erweiterte Steuerelemente des Audio-Spielers."
 
 #: includes/modules/elements/self-hosted-audio.php:45
 #: includes/modules/elements/self-hosted-video.php:86
 msgid "Preload"
-msgstr ""
+msgstr "Vorladen"
 
 #: includes/modules/elements/self-hosted-audio.php:46
 msgid ""
@@ -3048,12 +3066,12 @@ msgstr "Auto"
 #: includes/modules/elements/self-hosted-audio.php:52
 #: includes/modules/elements/self-hosted-video.php:93
 msgid "Metadata"
-msgstr ""
+msgstr "Metadaten"
 
 #: includes/modules/elements/self-hosted-audio.php:60
 #: includes/modules/elements/self-hosted-video.php:70 includes/tools/map.php:1129
 msgid "Autoplay"
-msgstr ""
+msgstr "Autoplay"
 
 #: includes/modules/elements/self-hosted-audio.php:61
 msgid "Enable audio player's autoplay."
@@ -3070,11 +3088,11 @@ msgstr ""
 
 #: includes/modules/elements/self-hosted-video.php:8
 msgid "Self Hosted Video"
-msgstr ""
+msgstr "Selbst-gehostetes Video"
 
 #: includes/modules/elements/self-hosted-video.php:10
 msgid "Self Hosted Video description."
-msgstr ""
+msgstr "Selbst-gehostetes Video Beschreibung."
 
 #: includes/modules/elements/self-hosted-video.php:21
 msgid "MP4"
@@ -3082,7 +3100,7 @@ msgstr "MP4"
 
 #: includes/modules/elements/self-hosted-video.php:22
 msgid "Include a .mp4 version of your video."
-msgstr ""
+msgstr "Fügen Sie eine .mp4 Ihres Videos hinzu."
 
 #: includes/modules/elements/self-hosted-video.php:29 includes/tools/map.php:1110
 msgid "OGV"
@@ -3091,6 +3109,7 @@ msgstr "OGV"
 #: includes/modules/elements/self-hosted-video.php:30
 msgid "Include a .ogv version of your video for additional native browser support."
 msgstr ""
+"Fügen Sie eine .ogv Version Ihres Videos für erweiterte native Browser-Unterstützung hinzu."
 
 #: includes/modules/elements/self-hosted-video.php:37 includes/tools/map.php:1116
 msgid "Poster Image"
@@ -3133,11 +3152,11 @@ msgstr ""
 
 #: includes/modules/elements/skill-bar.php:8 includes/tools/map.php:547
 msgid "Skill Bar"
-msgstr ""
+msgstr "Kompetenzen-Balken"
 
 #: includes/modules/elements/skill-bar.php:10
 msgid "Skill Bar description."
-msgstr ""
+msgstr "Kompetenzen-Balken Beschreibung."
 
 #: includes/modules/elements/skill-bar.php:20 includes/tools/map.php:359
 #: includes/tools/map.php:554
@@ -3146,11 +3165,11 @@ msgstr "Überschrift"
 
 #: includes/modules/elements/skill-bar.php:21
 msgid "Enter the heading of your Skill Bar."
-msgstr ""
+msgstr "Geben Sie die Überschrift für Ihren Kompetenzen-Balken ein."
 
 #: includes/modules/elements/skill-bar.php:22
 msgid "Skill Bar Title"
-msgstr ""
+msgstr "Kompetenzen-Balken Titel"
 
 #: includes/modules/elements/skill-bar.php:28 includes/tools/map.php:560
 msgid "Percent"
@@ -3160,10 +3179,12 @@ msgstr "Prozent"
 msgid ""
 "Enter the percentage of your skill and be sure to include the percentage sign (e.g. 90%)."
 msgstr ""
+"Geben Sie den Prozentsatz Ihrer Kompetenz ein, und achten Sie darauf, dass das "
+"Prozentzeichen (z.B. 90%) enthalten ist."
 
 #: includes/modules/elements/skill-bar.php:36 includes/tools/map.php:566
 msgid "Bar Text"
-msgstr ""
+msgstr "Balken Text"
 
 #: includes/modules/elements/skill-bar.php:37
 msgid "Enter in some alternate text in place of the percentage inside the Skill Bar."
@@ -3364,7 +3385,7 @@ msgstr "Registerkarte"
 
 #: includes/modules/elements/tab.php:10
 msgid "Tab description."
-msgstr ""
+msgstr "Registerkarte Beschreibung."
 
 #: includes/modules/elements/tab.php:31
 msgid "Include your desired content for your Tab here."
@@ -3383,11 +3404,11 @@ msgstr ""
 #: includes/modules/elements/tabs.php:8 includes/modules/elements/tabs.php:22
 #: includes/tools/map.php:1354
 msgid "Tabs"
-msgstr ""
+msgstr "Registerkarten"
 
 #: includes/modules/elements/tabs.php:10
 msgid "Tabs description."
-msgstr ""
+msgstr "Registerkarten Beschreibung."
 
 #: includes/modules/elements/tabs.php:23
 msgid "Add a new tab."
@@ -3514,7 +3535,7 @@ msgstr ""
 
 #: includes/modules/elements/text-type.php:140
 msgid "Show Cursor"
-msgstr ""
+msgstr "Cursor anzeigen"
 
 #: includes/modules/elements/text-type.php:141
 msgid "Enable to display a cursor for your typing effect."
@@ -3530,7 +3551,7 @@ msgstr ""
 
 #: includes/modules/elements/text.php:10
 msgid "Text description."
-msgstr ""
+msgstr "Textbeschreibung."
 
 #: includes/modules/integrations/x-theme.php:177
 msgid "Integrity"
@@ -3568,7 +3589,7 @@ msgstr ""
 
 #: includes/modules/settings/customizer.php:8 includes/modules/settings/customizer.php:21
 msgid "Customizer"
-msgstr ""
+msgstr "Customizer"
 
 #: includes/modules/settings/customizer.php:22
 #, php-format
@@ -3613,11 +3634,11 @@ msgstr "Veröffentlicht"
 
 #: includes/modules/settings/general.php:51
 msgid "Privately Published"
-msgstr ""
+msgstr "Privat Veröffentlicht"
 
 #: includes/modules/settings/general.php:53
 msgid "Scheduled"
-msgstr ""
+msgstr "Geplant"
 
 #: includes/modules/settings/general.php:55
 msgid "Pending Review"
@@ -3643,7 +3664,7 @@ msgstr ""
 
 #: includes/modules/settings/general.php:152
 msgid "(no parent)"
-msgstr "(Keine Eltern)"
+msgstr "(kein übergeordnetes Element)"
 
 #: includes/modules/settings/general.php:163
 msgid "Parent Page"
@@ -3677,7 +3698,7 @@ msgstr ""
 
 #: includes/modules/settings/x-settings.php:49
 msgid "Fullwidth Post Layout"
-msgstr ""
+msgstr "Volle Breite Beitrags-Layout"
 
 #: includes/modules/settings/x-settings.php:50
 msgid ""
@@ -3778,7 +3799,7 @@ msgstr ""
 
 #: includes/modules/settings/x-settings.php:281
 msgid "Gallery"
-msgstr ""
+msgstr "Galerie"
 
 #: includes/modules/settings/x-settings.php:292
 msgid "Video Aspect Ratio"
@@ -3851,7 +3872,7 @@ msgstr "Login"
 #: includes/modules/shortcodes/recent-posts.php:62
 #, php-format
 msgid "Permalink to: \"%s\""
-msgstr ""
+msgstr "Permalink zu: \"%s\""
 
 #: includes/modules/shortcodes/share.php:34
 msgid "Share on Facebook"
@@ -3883,11 +3904,11 @@ msgstr ""
 
 #: includes/modules/shortcodes/share.php:40
 msgid "Share via Email"
-msgstr ""
+msgstr "Via E-Mail teilen"
 
 #: includes/modules/shortcodes/toc.php:33 includes/tools/map.php:2277
 msgid "Table of Contents"
-msgstr ""
+msgstr "Inhaltsverzeichnis"
 
 #: includes/tools/class-shortcode-generator.php:74
 msgid "Click the button below to check out a live example of this shortcode"
@@ -3895,7 +3916,7 @@ msgstr ""
 
 #: includes/tools/class-shortcode-generator.php:83
 msgid "Insert Shortcodes"
-msgstr ""
+msgstr "Shortcodes einfügen"
 
 #: includes/tools/map.php:193
 msgid "Place a horizontal rule in your content"
@@ -4224,7 +4245,7 @@ msgstr ""
 
 #: includes/tools/map.php:1241
 msgid "Parent ID"
-msgstr "Eltern ID"
+msgstr "Übergeordenete ID"
 
 #: includes/tools/map.php:1242
 msgid ""
@@ -4246,7 +4267,7 @@ msgstr ""
 
 #: includes/tools/map.php:1274
 msgid "Tab Nav"
-msgstr ""
+msgstr "Registerkarte-Navigation"
 
 #: includes/tools/map.php:1278
 msgid "Include a tab nav into your content"
@@ -4262,7 +4283,7 @@ msgstr ""
 
 #: includes/tools/map.php:1295
 msgid "Tab Nav Position"
-msgstr ""
+msgstr "Registerkarte-Navigation Position"
 
 #: includes/tools/map.php:1296
 msgid "Select the position of your tab nav."
@@ -4270,7 +4291,7 @@ msgstr ""
 
 #: includes/tools/map.php:1319
 msgid "Tab Nav Item"
-msgstr ""
+msgstr "Registerkarte-Navigation Element"
 
 #: includes/tools/map.php:1323
 msgid "Include a tab nav item into your tab nav"
@@ -4430,15 +4451,15 @@ msgstr ""
 
 #: includes/tools/map.php:1823
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Währungssymbol"
 
 #: includes/tools/map.php:1824
 msgid "Enter in the currency symbol you want to use."
-msgstr ""
+msgstr "Geben Sie hier Ihr gewünschtes Währung-Symbol ein."
 
 #: includes/tools/map.php:1831
 msgid "Enter in the price for this pricing column."
-msgstr ""
+msgstr "Geben Sie den Preis für diese Preistabellenspalte ein."
 
 #: includes/tools/map.php:1838
 msgid "Enter in the time period that this pricing column is for."
@@ -4454,7 +4475,7 @@ msgstr ""
 
 #: includes/tools/map.php:1878
 msgid "Enter the title for your callout."
-msgstr ""
+msgstr "Geben Sie den Titel für Ihr Callout ein"
 
 #: includes/tools/map.php:1884 includes/tools/map.php:2135
 msgid "Message"
@@ -4462,7 +4483,7 @@ msgstr "Nachricht"
 
 #: includes/tools/map.php:1885
 msgid "Enter the message for your callout."
-msgstr ""
+msgstr "Geben Sie die Nachricht für Ihr Callout ein"
 
 #: includes/tools/map.php:1892
 msgid "Enter the text for your callout button."
@@ -4482,7 +4503,7 @@ msgstr ""
 
 #: includes/tools/map.php:1957
 msgid "Promo Image"
-msgstr ""
+msgstr "Promo Bild"
 
 #: includes/tools/map.php:1958
 msgid "Include an image for your promo element."
@@ -4637,7 +4658,7 @@ msgstr "(Optional) Inline-CSS eingeben."
 
 #: includes/tools/strings-generator.php:12
 msgid "Shortcodes"
-msgstr ""
+msgstr "Shortcodes"
 
 #: includes/tools/strings-generator.php:13
 msgid "Toggle Advanced Controls"
@@ -4653,7 +4674,7 @@ msgstr "Vorschau"
 
 #: includes/tools/strings-generator.php:17
 msgid "Live Example"
-msgstr ""
+msgstr "Live-Beispiel"
 
 #. Plugin URI of the plugin/theme
 msgid "http://theme.co/cornerstone"
@@ -4661,7 +4682,7 @@ msgstr "http://theme.co/cornerstone"
 
 #. Description of the plugin/theme
 msgid "The WordPress Page Builder"
-msgstr ""
+msgstr "Der WordPress Page Builder"
 
 #. Author of the plugin/theme
 msgid "Themeco"
