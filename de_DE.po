@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Cornerstone\n"
 "POT-Creation-Date: 2015-05-30 17:35+0100\n"
-"PO-Revision-Date: 2015-06-01 14:54+0100\n"
+"PO-Revision-Date: 2015-06-01 17:35+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -967,7 +967,7 @@ msgstr "Cornerstone &ndash; Buttons"
 
 #: includes/customizer/register.php:66
 msgid "Base Margin"
-msgstr ""
+msgstr "Basiswert Aussenabstand"
 
 #: includes/customizer/register.php:69
 msgid "Container Width"
@@ -979,11 +979,11 @@ msgstr "Container Max. Breite"
 
 #: includes/customizer/register.php:81
 msgid "Link Color"
-msgstr ""
+msgstr "Link-Farbe"
 
 #: includes/customizer/register.php:84
 msgid "Link Hover Color"
-msgstr ""
+msgstr "Link bei Mouseover Schriftfarbe"
 
 #: includes/customizer/register.php:93
 msgid "Button Style"
@@ -1087,7 +1087,7 @@ msgstr ""
 
 #: includes/modules/elements/accordion-item.php:38
 msgid "Starts Open"
-msgstr ""
+msgstr "Startet geöffnet"
 
 #: includes/modules/elements/accordion-item.php:39
 msgid "If the Accordion Items are linked, only one can start open."
@@ -1149,7 +1149,7 @@ msgstr "Überschrift &amp; Inhalt"
 
 #: includes/modules/elements/alert.php:21
 msgid "Text for your alert heading and content."
-msgstr ""
+msgstr "Text für die Überschrift und die Meldung Ihrer Warnung."
 
 #: includes/modules/elements/alert.php:22
 msgid "Alert Title"
@@ -1194,7 +1194,7 @@ msgstr "Gefahr"
 
 #: includes/modules/elements/alert.php:54
 msgid "Close Button"
-msgstr ""
+msgstr "Schliessen-Schaltfläche"
 
 #: includes/modules/elements/alert.php:55
 msgid ""
@@ -1221,7 +1221,7 @@ msgstr "Titel"
 
 #: includes/modules/elements/author.php:21 includes/tools/map.php:2084
 msgid "Enter in a title for your author information."
-msgstr ""
+msgstr "Geben Sie einen Titel für die Autor-Informationen ein."
 
 #: includes/modules/elements/author.php:22 includes/modules/shortcodes/author.php:18
 msgid "About the Author"
@@ -1236,6 +1236,9 @@ msgid ""
 "By default the author of the post or page will be output by leaving this input blank. If "
 "you would like to output the information of another author, enter in their user ID here."
 msgstr ""
+"Standardmässig wird der Autor der Beitrag oder der Seite ausgegeben, falls Sie dieses "
+"Eingabefeld leer lassen. Wenn Sie die Ausgabe der Daten eines anderen Autors möchten, geben "
+"Sie hier die Benutzer-ID ein."
 
 #: includes/modules/elements/block-grid-item.php:8 includes/tools/map.php:823
 msgid "Block Grid Item"
@@ -1269,7 +1272,7 @@ msgstr "Block-Raster-Elemente"
 
 #: includes/modules/elements/block-grid.php:23
 msgid "Add a new item to your Block Grid."
-msgstr ""
+msgstr "Neues Element zum Block-Raster hinzufügen."
 
 #: includes/modules/elements/block-grid.php:25
 msgid "Block Grid Item 1"
@@ -1313,7 +1316,7 @@ msgstr "Zitat"
 
 #: includes/modules/elements/blockquote.php:10
 msgid "Block Quote shortcode."
-msgstr ""
+msgstr "Zitat Shortcode"
 
 #: includes/modules/elements/blockquote.php:21 includes/modules/elements/pullquote.php:21
 msgid "Quote &amp Citation"
@@ -1343,7 +1346,7 @@ msgstr "Ausrichtung"
 
 #: includes/modules/elements/blockquote.php:38 includes/tools/map.php:279
 msgid "Select the alignment of the blockquote."
-msgstr ""
+msgstr "Wählen Sie die Ausrichtung des Zitats."
 
 #: includes/modules/elements/button.php:8 includes/tools/map.php:612
 msgid "Button"
@@ -1378,7 +1381,7 @@ msgstr "﻿Wählen Sie die Schaltflächen-Form."
 
 #: includes/modules/elements/button.php:35
 msgid "&ndash; Global Setting &ndash;"
-msgstr ""
+msgstr "&ndash; Globale Einstellungen &ndash;"
 
 #: includes/modules/elements/button.php:46 includes/modules/elements/gap.php:21
 #: includes/tools/map.php:218 includes/tools/map.php:637
@@ -1401,7 +1404,7 @@ msgstr ""
 #: includes/modules/elements/prompt.php:52 includes/tools/map.php:672
 #: includes/tools/map.php:1906 includes/tools/map.php:2157
 msgid "Marketing Circle"
-msgstr ""
+msgstr "Marketing-Circle"
 
 #: includes/modules/elements/button.php:74 includes/modules/elements/callout.php:53
 #: includes/tools/map.php:673 includes/tools/map.php:1907 includes/tools/map.php:2158
@@ -1410,7 +1413,7 @@ msgstr ""
 
 #: includes/modules/elements/button.php:81
 msgid "Enable Icon"
-msgstr ""
+msgstr "Icon aktivieren"
 
 #: includes/modules/elements/button.php:82
 msgid "Select if you would like to add an icon to your button"
@@ -1465,7 +1468,7 @@ msgstr "Schnellinfo"
 #: includes/modules/elements/button.php:132 includes/modules/elements/image.php:83
 #: includes/tools/map.php:722 includes/tools/map.php:931
 msgid "Info Placement"
-msgstr ""
+msgstr "Info Platzierung"
 
 #: includes/modules/elements/button.php:133 includes/modules/elements/image.php:84
 #: includes/tools/map.php:723 includes/tools/map.php:932
@@ -1485,7 +1488,7 @@ msgstr "Unten"
 #: includes/modules/elements/button.php:152 includes/modules/elements/image.php:106
 #: includes/tools/map.php:735 includes/tools/map.php:943
 msgid "Info Trigger"
-msgstr ""
+msgstr "Info Trigger"
 
 #: includes/modules/elements/button.php:153 includes/modules/elements/image.php:107
 #: includes/tools/map.php:736 includes/tools/map.php:944
@@ -1512,7 +1515,7 @@ msgstr "Info Inhalt"
 #: includes/modules/elements/button.php:171 includes/modules/elements/image.php:126
 #: includes/tools/map.php:748 includes/tools/map.php:955
 msgid "Extra content for the popover."
-msgstr ""
+msgstr "Weitere Inhalte für das Popover."
 
 #: includes/modules/elements/callout.php:8 includes/tools/map.php:1858
 msgid "Callout"
@@ -1528,7 +1531,7 @@ msgstr "Titel &amp; Inhalt"
 
 #: includes/modules/elements/callout.php:21
 msgid "Enter the title and message for your Callout below."
-msgstr ""
+msgstr "Geben Sie den Titel und die Nachricht für Ihr Callout ein"
 
 #: includes/modules/elements/callout.php:22
 msgid "Callout Title"
@@ -1540,7 +1543,7 @@ msgstr ""
 
 #: includes/modules/elements/callout.php:37
 msgid "Enter the text for your Callout button."
-msgstr ""
+msgstr "Geben Sie den Text für Ihre Callout-Schaltfläche ein"
 
 #: includes/modules/elements/callout.php:38
 msgid "Enter Your Text"
@@ -1554,11 +1557,11 @@ msgstr "Schaltfläche Icon"
 #: includes/modules/elements/callout.php:45 includes/modules/elements/prompt.php:45
 #: includes/tools/map.php:1899 includes/tools/map.php:2150
 msgid "Optionally enter the button icon."
-msgstr ""
+msgstr "Optional, geben Sie hier das Schaltflächen-Icon ein"
 
 #: includes/modules/elements/callout.php:63
 msgid "Select the alignment for your Callout."
-msgstr ""
+msgstr "Wählen Sie die Ausrichtung für Ihr Callout."
 
 #: includes/modules/elements/card.php:8
 msgid "Card"
@@ -1608,7 +1611,7 @@ msgstr ""
 
 #: includes/modules/elements/card.php:65
 msgid "Front Title &amp; Content"
-msgstr ""
+msgstr "Titel Vorderseite &amp; Inhalt"
 
 #: includes/modules/elements/card.php:66
 msgid "Specify the title and content for the front of your Card."
@@ -1616,7 +1619,7 @@ msgstr ""
 
 #: includes/modules/elements/card.php:67
 msgid "Front Title"
-msgstr ""
+msgstr "Titel Vorderseite"
 
 #: includes/modules/elements/card.php:75
 msgid ""
@@ -1627,11 +1630,11 @@ msgstr ""
 
 #: includes/modules/elements/card.php:86
 msgid "Front Border"
-msgstr ""
+msgstr "Rahmen Vorderseite"
 
 #: includes/modules/elements/card.php:112
 msgid "Front Text Color"
-msgstr ""
+msgstr "Schriftfarbe Vorderseite"
 
 #: includes/modules/elements/card.php:113
 msgid "Select the text color for the front of your Card."
@@ -1639,15 +1642,15 @@ msgstr ""
 
 #: includes/modules/elements/card.php:120
 msgid "Front Background Color"
-msgstr ""
+msgstr "Hintergrundfarbe Vorderseite"
 
 #: includes/modules/elements/card.php:121
 msgid "Select the background color for the front of your Card."
-msgstr ""
+msgstr "Wählen Sie die Hintergrundfarbe für die Vorderseite Ihrer Karte."
 
 #: includes/modules/elements/card.php:128
 msgid "Front Graphic"
-msgstr ""
+msgstr "Grafik Vorderseite"
 
 #: includes/modules/elements/card.php:129
 msgid "Choose between an icon and a custom image for your front graphic."
@@ -1672,7 +1675,7 @@ msgstr "Icon Größe"
 
 #: includes/modules/elements/card.php:165 includes/modules/elements/creative-cta.php:76
 msgid "Specify the size of your icon."
-msgstr ""
+msgstr "Geben Sie die Grösse Ihres Icons an."
 
 #: includes/modules/elements/card.php:177
 msgid "Icon Color"
@@ -1680,7 +1683,7 @@ msgstr "Icon Farbe"
 
 #: includes/modules/elements/card.php:178
 msgid "Specify the color of your icon."
-msgstr ""
+msgstr "Geben Sie die Farbe Ihres Icons an."
 
 #: includes/modules/elements/card.php:196
 msgid "Specify the image you would like to use for your Card."
@@ -1692,11 +1695,11 @@ msgstr "Bild-Breite."
 
 #: includes/modules/elements/card.php:209 includes/modules/elements/creative-cta.php:102
 msgid "Specify the width of your image."
-msgstr ""
+msgstr "Geben Sie die Breite Ihres Bildes an."
 
 #: includes/modules/elements/card.php:226
 msgid "Back Title &amp; Content"
-msgstr ""
+msgstr "Titel Rückseite &amp; Inhalt"
 
 #: includes/modules/elements/card.php:227 includes/modules/elements/card.php:295
 msgid "Specify the title and content for the back of your Card."
@@ -1704,19 +1707,19 @@ msgstr ""
 
 #: includes/modules/elements/card.php:228
 msgid "Back Title"
-msgstr ""
+msgstr "Titel Rückseite"
 
 #: includes/modules/elements/card.php:236
 msgid "This is the content for the back of your Card."
-msgstr ""
+msgstr "Dies ist der Inhalt für die Rückseite Ihrer Karte."
 
 #: includes/modules/elements/card.php:247
 msgid "Back Border"
-msgstr ""
+msgstr "Rahmen Rückseite"
 
 #: includes/modules/elements/card.php:273
 msgid "Back Text Color"
-msgstr ""
+msgstr "Schriftfarbe Rückseite"
 
 #: includes/modules/elements/card.php:274
 msgid "Select the text color for the back of your Card."
@@ -1724,19 +1727,19 @@ msgstr ""
 
 #: includes/modules/elements/card.php:281
 msgid "Back Background Color"
-msgstr ""
+msgstr "Hintergrundfarbe Rückseite"
 
 #: includes/modules/elements/card.php:282
 msgid "Select the background color for the back of your Card."
-msgstr ""
+msgstr "Wählen Sie die Hintergrundfarbe für die Rückseite Ihrer Karte."
 
 #: includes/modules/elements/card.php:294
 msgid "Back Button Text"
-msgstr ""
+msgstr "Schaltflächen-Text Rückseite"
 
 #: includes/modules/elements/card.php:302
 msgid "Back Button Link"
-msgstr ""
+msgstr "Schaltflächen-Link Rückseite"
 
 #: includes/modules/elements/card.php:303
 msgid "Specify the URL for the button on the back of your Card."
@@ -1744,7 +1747,7 @@ msgstr ""
 
 #: includes/modules/elements/card.php:310
 msgid "Back Button Text Color"
-msgstr ""
+msgstr "Schaltflächen-Link-Schriftfarbe Rückseite"
 
 #: includes/modules/elements/card.php:311
 msgid "Select the text color for button on the back of your Card."
@@ -1752,7 +1755,7 @@ msgstr ""
 
 #: includes/modules/elements/card.php:318
 msgid "Back Button Background Color"
-msgstr ""
+msgstr "Schaltflächen-Link-Hintergrundfarbe Rückseite"
 
 #: includes/modules/elements/card.php:319
 msgid "Select the background color for button on the back of your Card."
@@ -1760,7 +1763,7 @@ msgstr ""
 
 #: includes/modules/elements/clear.php:10
 msgid "Clear description."
-msgstr ""
+msgstr "Beschreibung entfernen"
 
 #: includes/modules/elements/code.php:8 includes/tools/map.php:585
 msgid "Code"
@@ -1768,7 +1771,7 @@ msgstr "Code"
 
 #: includes/modules/elements/code.php:10
 msgid "Code description."
-msgstr ""
+msgstr "Code Beschreibung."
 
 #: includes/modules/elements/code.php:21
 msgid ""
@@ -1798,7 +1801,7 @@ msgstr "Hintergrundfarbe"
 
 #: includes/modules/elements/column.php:26
 msgid "Select the background color of your Column."
-msgstr ""
+msgstr "Wählen Sie die Hintergrundfarbe Ihrer Spalte."
 
 #: includes/modules/elements/column.php:43
 msgid "Enable Fade Effect"
@@ -1831,11 +1834,11 @@ msgstr ""
 
 #: includes/modules/elements/columnize.php:8 includes/tools/map.php:1057
 msgid "Columnize"
-msgstr ""
+msgstr "Columnize"
 
 #: includes/modules/elements/columnize.php:10
 msgid "Columnize description."
-msgstr ""
+msgstr "Columnize Beschreibung."
 
 #: includes/modules/elements/contact-form-7.php:8
 msgid "Contact Form 7"
@@ -1847,15 +1850,15 @@ msgstr "Contact Form 7 Beschreibung."
 
 #: includes/modules/elements/contact-form-7.php:29
 msgid "No Forms available"
-msgstr ""
+msgstr "Keine Formulare verfügbar"
 
 #: includes/modules/elements/contact-form-7.php:35
 msgid "Select Contact Form"
-msgstr ""
+msgstr "Kontaktformular auswählen"
 
 #: includes/modules/elements/contact-form-7.php:36
 msgid "Select a previously created form."
-msgstr ""
+msgstr "Wählen Sie ein zuvor erstelltes Formular."
 
 #: includes/modules/elements/counter.php:8 includes/tools/map.php:2593
 msgid "Counter"
@@ -1867,21 +1870,23 @@ msgstr "Zähler Beschreibung."
 
 #: includes/modules/elements/counter.php:20 includes/tools/map.php:2600
 msgid "Starting Number"
-msgstr ""
+msgstr "Startzahl"
 
 #: includes/modules/elements/counter.php:21 includes/tools/map.php:2601
 msgid "Enter in the number that you would like your counter to start from."
-msgstr ""
+msgstr "Geben Sie die Zahl ein, mit der Ihr Zähler starten soll."
 
 #: includes/modules/elements/counter.php:28 includes/tools/map.php:2608
 msgid "Ending Number"
-msgstr ""
+msgstr "Endzahl"
 
 #: includes/modules/elements/counter.php:29
 msgid ""
 "Enter in the number that you would like your counter to end at. This must be higher than "
 "your starting number."
 msgstr ""
+"Geben Sie die Zahl ein, mit der Ihr Zähler enden soll. Diese Zahl muss grosser sein als "
+"Ihre Startzahl."
 
 #: includes/modules/elements/counter.php:36 includes/tools/map.php:2616
 msgid "Counter Speed"
@@ -1893,31 +1898,31 @@ msgstr ""
 
 #: includes/modules/elements/counter.php:44 includes/tools/map.php:2624
 msgid "Number Prefix"
-msgstr ""
+msgstr "Zahl Präfix"
 
 #: includes/modules/elements/counter.php:45 includes/tools/map.php:2625
 msgid "Prefix your number with a symbol or text."
-msgstr ""
+msgstr "Stellen Sie Ihrer Zahl ein Symbol oder ein Text voran."
 
 #: includes/modules/elements/counter.php:52 includes/tools/map.php:2631
 msgid "Number Suffix"
-msgstr ""
+msgstr "Zahl Suffix"
 
 #: includes/modules/elements/counter.php:53 includes/tools/map.php:2632
 msgid "Suffix your number with a symbol or text."
-msgstr ""
+msgstr "Fügen Sie Ihrer Zahl ein Symbol oder ein Text hintz."
 
 #: includes/modules/elements/counter.php:60 includes/tools/map.php:2638
 msgid "Number Color"
-msgstr ""
+msgstr "Farbe der Zahl"
 
 #: includes/modules/elements/counter.php:61 includes/tools/map.php:2639
 msgid "Select the color of your number."
-msgstr ""
+msgstr "Wählen Sie die Schriftfarbe Ihrer Zahl."
 
 #: includes/modules/elements/counter.php:68 includes/tools/map.php:2645
 msgid "Text Above"
-msgstr ""
+msgstr "Text oberhalb"
 
 #: includes/modules/elements/counter.php:69 includes/tools/map.php:2646
 msgid "Optionally include text above your number."
@@ -1925,11 +1930,11 @@ msgstr ""
 
 #: includes/modules/elements/counter.php:70
 msgid "There Are"
-msgstr ""
+msgstr "Es gibt"
 
 #: includes/modules/elements/counter.php:76 includes/tools/map.php:2652
 msgid "Text Below"
-msgstr ""
+msgstr "Text unterhalb"
 
 #: includes/modules/elements/counter.php:77 includes/tools/map.php:2653
 msgid "Optionally include text below your number."
@@ -1937,12 +1942,12 @@ msgstr ""
 
 #: includes/modules/elements/counter.php:78
 msgid "Options"
-msgstr ""
+msgstr "Optionen"
 
 #: includes/modules/elements/counter.php:84 includes/modules/elements/creative-cta.php:142
 #: includes/tools/map.php:2659
 msgid "Text Color"
-msgstr ""
+msgstr "Schriftfarbe"
 
 #: includes/modules/elements/counter.php:85 includes/tools/map.php:2660
 msgid "Select the color of your text above and below the number if you have include any."
@@ -1950,11 +1955,11 @@ msgstr ""
 
 #: includes/modules/elements/creative-cta.php:8
 msgid "Creative CTA"
-msgstr ""
+msgstr "Kreativer Call-to-Action"
 
 #: includes/modules/elements/creative-cta.php:10
 msgid "Creative CTA description."
-msgstr ""
+msgstr "Kreativer Call-to-Action Beschreibung."
 
 #: includes/modules/elements/creative-cta.php:21
 msgid "Specify the padding you would like to use for your Creative CTA."
@@ -1966,7 +1971,7 @@ msgstr ""
 
 #: includes/modules/elements/creative-cta.php:30
 msgid "Click Here<br>To Learn More!"
-msgstr ""
+msgstr "Klicken Sie Hier<br>Um mehr zu erfahren!"
 
 #: includes/modules/elements/creative-cta.php:36
 msgid "Text Size"
@@ -1974,7 +1979,7 @@ msgstr "Textgrösse"
 
 #: includes/modules/elements/creative-cta.php:37
 msgid "Specify the size of your text."
-msgstr ""
+msgstr "Geben Sie die Grösse Ihres Textes ein."
 
 #: includes/modules/elements/creative-cta.php:44
 msgid "Graphic"
@@ -2196,11 +2201,11 @@ msgstr ""
 #: includes/modules/elements/feature-headline.php:8
 #: includes/modules/elements/feature-headline.php:32 includes/tools/map.php:2449
 msgid "Feature Headline"
-msgstr ""
+msgstr "Hervorgehobene Headline"
 
 #: includes/modules/elements/feature-headline.php:10
 msgid "Feature Headline description."
-msgstr ""
+msgstr "Hervorgehobene Headline Beschreibung."
 
 #: includes/modules/elements/feature-headline.php:61
 msgid "Icon to be displayed next to the Feature Headline."
@@ -2236,7 +2241,7 @@ msgstr "Breitengrad"
 
 #: includes/modules/elements/google-map-marker.php:30
 msgid "Enter the latitude for your map marker."
-msgstr ""
+msgstr "Geben Sie den Breitengrad für Ihren Marker ein."
 
 #: includes/modules/elements/google-map-marker.php:37
 #: includes/modules/elements/google-map.php:41 includes/tools/map.php:447
@@ -2246,7 +2251,7 @@ msgstr "Längengrad"
 
 #: includes/modules/elements/google-map-marker.php:38
 msgid "Enter the longitude for your map marker."
-msgstr ""
+msgstr "Geben Sie den Längengrad für Ihren Marker ein."
 
 #: includes/modules/elements/google-map-marker.php:46
 msgid "Enter in optional text to appear if your map marker is hovered over."
@@ -2258,11 +2263,11 @@ msgstr ""
 
 #: includes/modules/elements/google-map.php:8 includes/tools/map.php:432
 msgid "Google Map"
-msgstr ""
+msgstr "Google Map"
 
 #: includes/modules/elements/google-map.php:10
 msgid "Google Map description."
-msgstr ""
+msgstr "Google Map Beschreibung."
 
 #: includes/modules/elements/google-map.php:22
 msgid "Map Markers"
@@ -2275,15 +2280,15 @@ msgstr ""
 #: includes/modules/elements/google-map.php:26
 #, php-format
 msgid "Map Marker %s"
-msgstr ""
+msgstr "Map Marker %s"
 
 #: includes/modules/elements/google-map.php:34
 msgid "Enter the latitude for the center of your map."
-msgstr ""
+msgstr "Geben Sie den Breitengrad für das Zentrum Ihrer Karte ein."
 
 #: includes/modules/elements/google-map.php:42
 msgid "Enter the longitude for the center of your map."
-msgstr ""
+msgstr "Geben Sie den Längengrad für das Zentrum Ihrer Karte ein."
 
 #: includes/modules/elements/google-map.php:49
 msgid "Zoom"
@@ -2320,7 +2325,7 @@ msgstr ""
 
 #: includes/modules/elements/google-map.php:81
 msgid "Map Hue"
-msgstr ""
+msgstr "Karte Farbton"
 
 #: includes/modules/elements/google-map.php:82
 msgid "Specifying a hexadecimal map hue will give your map a different color palette."
@@ -2415,7 +2420,7 @@ msgstr "Alt"
 
 #: includes/modules/elements/image.php:46
 msgid "Enter in the alt text for your image"
-msgstr ""
+msgstr "Geben Sie den alt. Text für Ihr Bild ein"
 
 #: includes/modules/elements/image.php:54 includes/tools/map.php:895
 msgid "Select to wrap your image in an anchor tag."
@@ -2431,7 +2436,7 @@ msgstr "Lightbox"
 
 #: includes/modules/elements/lightbox.php:10
 msgid "Lightbox description."
-msgstr ""
+msgstr "Lightbox Beschreibung."
 
 #: includes/modules/elements/lightbox.php:19 includes/modules/elements/responsive-text.php:29
 #: includes/tools/map.php:2534
@@ -2455,7 +2460,7 @@ msgstr ""
 
 #: includes/modules/elements/lightbox.php:35
 msgid "Backdrop Opacity"
-msgstr ""
+msgstr "Backdrop Deckkraft"
 
 #: includes/modules/elements/lightbox.php:36
 msgid "Enter in the opacity for the backdrop (valid inputs are numbers 0 to 1)."
@@ -2742,7 +2747,7 @@ msgstr "Schützen"
 
 #: includes/modules/elements/protect.php:10
 msgid "Protect description."
-msgstr ""
+msgstr "Schützen Beschreibung."
 
 #: includes/modules/elements/protect.php:22
 msgid ""
@@ -2827,15 +2832,15 @@ msgstr ""
 #: includes/modules/elements/responsive-text.php:8
 #: includes/modules/settings/responsive-text.php:8 includes/tools/map.php:2527
 msgid "Responsive Text"
-msgstr ""
+msgstr "Responsiver Text"
 
 #: includes/modules/elements/responsive-text.php:10
 msgid "Responsive Text description."
-msgstr ""
+msgstr "Responsiver Text Beschreibung."
 
 #: includes/modules/elements/responsive-text.php:23
 msgid "Responsive Text Item"
-msgstr ""
+msgstr "Responsiver Text Element"
 
 #: includes/modules/elements/responsive-text.php:30
 msgid ""
@@ -2845,7 +2850,7 @@ msgstr ""
 
 #: includes/modules/elements/responsive-text.php:37 includes/tools/map.php:2541
 msgid "Compression"
-msgstr ""
+msgstr "Kompression"
 
 #: includes/modules/elements/responsive-text.php:38
 msgid ""
@@ -2887,7 +2892,7 @@ msgstr ""
 
 #: includes/modules/elements/row.php:29
 msgid "Marginless Columns"
-msgstr ""
+msgstr "Spalten ohne Aussenabstand"
 
 #: includes/modules/elements/row.php:30
 msgid ""
@@ -3201,11 +3206,11 @@ msgstr ""
 #: includes/modules/elements/slide.php:8 includes/modules/elements/slider.php:43
 #: includes/tools/map.php:1543
 msgid "Slide"
-msgstr ""
+msgstr "Slide"
 
 #: includes/modules/elements/slide.php:10
 msgid "Slide description."
-msgstr ""
+msgstr "Slide Beschreibung."
 
 #: includes/modules/elements/slide.php:31
 msgid "Include your desired content for your Slide here."
@@ -3213,11 +3218,11 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:8 includes/tools/map.php:1454
 msgid "Slider"
-msgstr ""
+msgstr "Slider"
 
 #: includes/modules/elements/slider.php:10
 msgid "Slider description."
-msgstr ""
+msgstr "Slider Beschreibung."
 
 #: includes/modules/elements/slider.php:22
 msgid "Slides"
@@ -3225,20 +3230,20 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:23
 msgid "Add a new slide to your slider."
-msgstr ""
+msgstr "Neue Slide zu Ihrem Slider hinzufügen."
 
 #: includes/modules/elements/slider.php:25
 msgid "Slide 1"
-msgstr ""
+msgstr "Slide 1"
 
 #: includes/modules/elements/slider.php:26
 msgid "Slide 2"
-msgstr ""
+msgstr "Slide 2"
 
 #: includes/modules/elements/slider.php:29
 #, php-format
 msgid "Slide %s"
-msgstr ""
+msgstr "Slide %s"
 
 #: includes/modules/elements/slider.php:38
 msgid "Choose between a fade and a slide animation."
@@ -3246,11 +3251,11 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:42
 msgid "Fade"
-msgstr ""
+msgstr "Überblenden"
 
 #: includes/modules/elements/slider.php:51 includes/tools/map.php:1474
 msgid "Slide Time"
-msgstr ""
+msgstr "Anzeigedauer der Slide"
 
 #: includes/modules/elements/slider.php:52
 msgid ""
@@ -3260,7 +3265,7 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:59 includes/tools/map.php:1482
 msgid "Slide Speed"
-msgstr ""
+msgstr "Slide Speed"
 
 #: includes/modules/elements/slider.php:60
 msgid "The amount of time in milliseconds the transition between each slide should take."
@@ -3268,7 +3273,7 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:67 includes/tools/map.php:1490
 msgid "Slideshow"
-msgstr ""
+msgstr "Diashow"
 
 #: includes/modules/elements/slider.php:68
 msgid ""
@@ -3285,7 +3290,7 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:83 includes/tools/map.php:1506
 msgid "Control Navigation"
-msgstr ""
+msgstr "Control Navigation"
 
 #: includes/modules/elements/slider.php:84
 msgid ""
@@ -3295,7 +3300,7 @@ msgstr ""
 
 #: includes/modules/elements/slider.php:91
 msgid "Prev/Next Navigation"
-msgstr ""
+msgstr "Vor/Zurück Navigation"
 
 #: includes/modules/elements/slider.php:92
 msgid ""
@@ -3309,19 +3314,19 @@ msgstr ""
 
 #: includes/modules/elements/social-sharing.php:8 includes/tools/map.php:2193
 msgid "Social Sharing"
-msgstr ""
+msgstr "Teilen auf sozialen Netzwerken"
 
 #: includes/modules/elements/social-sharing.php:10
 msgid "Social Sharing description."
-msgstr ""
+msgstr "Teilen auf sozialen Netzwerken Beschreibung."
 
 #: includes/modules/elements/social-sharing.php:21 includes/tools/map.php:2201
 msgid "Enter in a title for your social links."
-msgstr ""
+msgstr "Geben Sie einen Titel für Ihre sozialen Links ein."
 
 #: includes/modules/elements/social-sharing.php:22 includes/modules/shortcodes/share.php:33
 msgid "Share this Post"
-msgstr ""
+msgstr "Diesen Beitrag teilen"
 
 #: includes/modules/elements/social-sharing.php:28 includes/tools/map.php:2208
 msgid "Facebook"
@@ -3329,19 +3334,19 @@ msgstr "Facebook"
 
 #: includes/modules/elements/social-sharing.php:29 includes/tools/map.php:2209
 msgid "Select to activate the Facebook sharing link."
-msgstr ""
+msgstr "Auswählen um Teilen auf Facebook zu aktivieren"
 
 #: includes/modules/elements/social-sharing.php:36 includes/tools/map.php:2216
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: includes/modules/elements/social-sharing.php:37 includes/tools/map.php:2217
 msgid "Select to activate the Twitter sharing link."
-msgstr ""
+msgstr "Auswählen um Teilen auf Twitter zu aktivieren"
 
 #: includes/modules/elements/social-sharing.php:44 includes/tools/map.php:2224
 msgid "Google Plus"
-msgstr ""
+msgstr "Google Plus"
 
 #: includes/modules/elements/social-sharing.php:45 includes/tools/map.php:2225
 msgid "Select to activate the Google Plus sharing link."
@@ -3353,7 +3358,7 @@ msgstr "LinkedIn"
 
 #: includes/modules/elements/social-sharing.php:53 includes/tools/map.php:2233
 msgid "Select to activate the LinkedIn sharing link."
-msgstr ""
+msgstr "Auswählen um Teilen auf LinkedIn zu aktivieren"
 
 #: includes/modules/elements/social-sharing.php:60 includes/tools/map.php:2240
 msgid "Pinterest"
@@ -3361,7 +3366,7 @@ msgstr "Pinterest"
 
 #: includes/modules/elements/social-sharing.php:61 includes/tools/map.php:2241
 msgid "Select to activate the Pinterest sharing link."
-msgstr ""
+msgstr "Auswählen um Teilen auf Pinterest zu aktivieren"
 
 #: includes/modules/elements/social-sharing.php:68 includes/tools/map.php:2248
 msgid "Reddit"
@@ -3369,7 +3374,7 @@ msgstr "Reddit"
 
 #: includes/modules/elements/social-sharing.php:69 includes/tools/map.php:2249
 msgid "Select to activate the Reddit sharing link."
-msgstr ""
+msgstr "Auswählen um Teilen auf Reddit  zu aktivieren"
 
 #: includes/modules/elements/social-sharing.php:76 includes/tools/map.php:2256
 msgid "Email"
@@ -3377,7 +3382,7 @@ msgstr "E-Mail"
 
 #: includes/modules/elements/social-sharing.php:77 includes/tools/map.php:2257
 msgid "Select to activate the email sharing link."
-msgstr ""
+msgstr "Auswählen um Teilen via E-Mail zu aktivieren"
 
 #: includes/modules/elements/tab.php:8 includes/tools/map.php:1382
 msgid "Tab"
@@ -3393,7 +3398,7 @@ msgstr ""
 
 #: includes/modules/elements/tab.php:38
 msgid "Initial Active Tab"
-msgstr ""
+msgstr "Initial active Registerkarte"
 
 #: includes/modules/elements/tab.php:39
 msgid ""
@@ -3438,7 +3443,7 @@ msgstr "Registerkarte %s"
 
 #: includes/modules/elements/tabs.php:38
 msgid "Navigation Position"
-msgstr ""
+msgstr "Position der Navigation"
 
 #: includes/modules/elements/tabs.php:39
 msgid "Choose the positioning of your navigation for your tabs."
@@ -3472,6 +3477,9 @@ msgid ""
 "second string\n"
 "third string"
 msgstr ""
+"erster Text\n"
+"zweiter Text\n"
+"dritter Text"
 
 #: includes/modules/elements/text-type.php:42
 msgid " of the sentence."
@@ -3777,7 +3785,7 @@ msgstr ""
 
 #: includes/modules/settings/x-settings.php:262
 msgid "Portfolio Parent"
-msgstr ""
+msgstr "Übergeordnetes Portfolio"
 
 #: includes/modules/settings/x-settings.php:263
 msgid ""
@@ -3837,7 +3845,7 @@ msgstr ""
 
 #: includes/modules/settings/x-settings.php:358
 msgid "Featured Content"
-msgstr ""
+msgstr "Featured Content"
 
 #: includes/modules/settings/x-settings.php:359
 msgid ""
@@ -4051,7 +4059,7 @@ msgstr ""
 
 #: includes/tools/map.php:531
 msgid "Custom Marker Image"
-msgstr ""
+msgstr "Bild für benutzerdefinierten Marker"
 
 #: includes/tools/map.php:532
 msgid "Utilize a custom marker image instead of the default provided by Google."
@@ -4115,7 +4123,7 @@ msgstr ""
 
 #: includes/tools/map.php:754 includes/tools/map.php:960
 msgid "Lightbox Thumbnail"
-msgstr ""
+msgstr "Lightbox Vorschaubild"
 
 #: includes/tools/map.php:755
 msgid ""
@@ -4125,7 +4133,7 @@ msgstr ""
 
 #: includes/tools/map.php:761 includes/tools/map.php:966
 msgid "Lightbox Video"
-msgstr ""
+msgstr "Lightbox Video"
 
 #: includes/tools/map.php:762
 msgid "Select if you are linking to a video from this button in the lightbox."
@@ -4133,7 +4141,7 @@ msgstr ""
 
 #: includes/tools/map.php:769 includes/tools/map.php:973
 msgid "Lightbox Caption"
-msgstr ""
+msgstr "Lightbox Untertitel"
 
 #: includes/tools/map.php:770 includes/tools/map.php:974
 msgid "Lightbox caption text."
@@ -4205,7 +4213,7 @@ msgstr ""
 
 #: includes/tools/map.php:1037
 msgid "Select your icon."
-msgstr ""
+msgstr "Wählen Sie Ihr Icon aus."
 
 #: includes/tools/map.php:1059
 msgid "Split your text into multiple columns"
@@ -4367,7 +4375,7 @@ msgstr ""
 
 #: includes/tools/map.php:1514
 msgid "Previous/Next Navigation"
-msgstr ""
+msgstr "Vor/Zurück Navigation"
 
 #: includes/tools/map.php:1515
 msgid "Select to display the previous/next navigation."
@@ -4568,7 +4576,7 @@ msgstr ""
 
 #: includes/tools/map.php:2331
 msgid "Table of Contents Item"
-msgstr ""
+msgstr "Inhaltsverzeichnis-Element"
 
 #: includes/tools/map.php:2335
 msgid "Include a table of contents item"
@@ -4662,7 +4670,7 @@ msgstr "Shortcodes"
 
 #: includes/tools/strings-generator.php:13
 msgid "Toggle Advanced Controls"
-msgstr ""
+msgstr "Erweiterte Bedienelemente ein-/ausschalten"
 
 #: includes/tools/strings-generator.php:15
 msgid "Choose a Shortcode from the Sidebar to Get Started"
